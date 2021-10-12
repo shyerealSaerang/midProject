@@ -1,0 +1,120 @@
+.content{
+    margin: 0 10%;
+    margin-bottom: 200px;
+}
+
+.judul{
+    font-size: 50px;
+    margin-bottom: -20px;
+    color: black;
+}
+.judul2{
+    font-size: 50px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.miniapp{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.student{
+    width: 755px;
+    visibility: hidden;
+}
+input{
+    border-radius: 0;
+    border-style: solid;
+}
+.buttonAdd{
+    background-color: black;
+    color: white;
+    padding: 10px 10px;
+    font-size: 15px;
+    border: none;
+    border-radius: 0;
+    width: 30%;
+    height: 35px;
+}
+.searchButton{
+    background-color: black;
+    color: white;
+    padding: 0px 0px;
+    font-size: 15px;
+    border: none;
+    border-radius: none;
+    width: 60%;
+    height: 35px;
+}
+.inputBox{
+    width: 750px;
+    height: 35px;
+    border-color: grey;
+    border-width: 1px;
+}
+
+.searchBox{
+    width: 275px;
+    height: 35px;
+    border-color: grey;
+    border-width: 1px;
+    margin: 10px 0;
+}
+.tableStyle{
+    padding-right: 40px;
+    vertical-align: top;
+}
+.prodiFaculty{
+    width: 750;
+    height: 35px;
+    border-color: grey;
+    margin: 10px 0;
+}
+
+.addProdi{
+    width: 750;
+    height: 35px;
+    border-color: grey;
+    margin: 10px 0;
+}
+
+
+.filterStudent{
+    vertical-align: top;
+}
+.searchName{
+    width: 1073px;
+    height: 35px;
+    border-color: grey;
+    border-width: 1px;
+}
+.centerTable{
+    margin: 0 auto;
+    border-collapse: collapse;
+    border-left: white;
+    border-right: white;
+}
+.centerTable tr td{
+    text-align: center;
+}
+
+.centerTable tr th{
+    padding: 20px;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 50px;
+}
+footer h5{
+    text-align: center;
+}
+.studentData{
+    list-style: none;
+    margin-left: 135px;
+}
+
+
+
+
+
